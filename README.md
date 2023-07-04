@@ -10,6 +10,6 @@
    3. render products
    4. style products
 6. Add routing
-7. npm i react-router-dom
-8. create route for home screen
-9. create router for product screen
+   1. npm i react-router-dom
+   2. create route for home screen
+   3. create router for product screen
