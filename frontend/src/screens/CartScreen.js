@@ -69,7 +69,7 @@ export default function CartScreen() {
                       >
                         <i className="fas fa-minus-circle"></i>
                       </Button>{' '}
-                      <spam>{item.quantity}</spam>{' '}
+                      <span>{item.quantity}</span>{' '}
                       <Button
                         onClick={() =>
                           updateCartHandler(item, item.quantity + 1)
